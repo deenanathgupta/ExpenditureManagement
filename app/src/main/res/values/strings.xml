@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Expediture Management</string>
+    <string name="button_pick">Login</string>
+    <string name="button_record">Cancel</string>
+    <string name="addnew">Add New</string>
+    <string name="addnewproduct">Add New Expenditure</string>
+    <string name="logout">LogOut</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="addnewTab">Add New Tab Name</string>
+    <string name="Custom_Title">Save Data Online</string>
+</resources>
